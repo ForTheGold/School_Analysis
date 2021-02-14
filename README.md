@@ -18,21 +18,20 @@ While performing this analysis it came to our attention that some of the data wa
 As noted above the analysis was performed twice due to problems with the data.  Here is an outline as to how the results were changed with the second analysis.
 
 * Effects on District Summary
-The math score decreased by 0.1% and the reading by 0.2% amounting to a 0.3% decrease overall.
-District Summary - Original
-
+The math score decreased by 0.1% and the reading by 0.2% amounting to a 0.3% decrease overall.  
 District Summary - Thomas High School 9th Graders Removed
-
+![District Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Fixed.png)
+District Summary - Original
+![District Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Orig.png)
 
 * Effects on School Summary
-The math average decreased about 0.1% and the reading average less than 0.1%.  The percent passing math decreased by less than 0.1% and the percent passing reading decreased by less than 0.3% amounting to an overall decrease of just over 0.3%.
-School Summary - Original
-
+The math average decreased about 0.1% and the reading average less than 0.1%.  The percent passing math decreased by less than 0.1% and the percent passing reading decreased by less than 0.3% amounting to an overall decrease of just over 0.3%.  
 School Summary - Thomas High School 9th Graders Removed
+![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)
+School Summary - Original
+![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)
 
-
-
-* Effects on Thomas High School’s Performance Relative to Other Schools
+* Effects on Thomas High Schoolâ€™s Performance Relative to Other Schools
 The average reading score was originally slightly higher than Shelton High School, but it ended up lower than Shelton High School in that category afterward.  The other changes were too small to play a major role relative to the other schools.
 
 * Additional Effects:
