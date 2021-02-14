@@ -19,53 +19,53 @@ As noted above the analysis was performed twice due to problems with the data.  
 
 * Effects on District Summary
 The math score decreased by 0.1% and the reading by 0.2% amounting to a 0.3% decrease overall.  
-District Summary - Thomas High School 9th Graders Removed
-![District Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Fixed.png)
-District Summary - Original
-![District Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Orig.png)
+District Summary - Thomas High School 9th Graders Removed  
+![District Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Fixed.png)  
+District Summary - Original  
+![District Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Orig.png)  
 
 * Effects on School Summary
 The math average decreased about 0.1% and the reading average less than 0.1%.  The percent passing math decreased by less than 0.1% and the percent passing reading decreased by less than 0.3% amounting to an overall decrease of just over 0.3%.  
-School Summary - Thomas High School 9th Graders Removed
-![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)
-School Summary - Original
-![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)
+School Summary - Thomas High School 9th Graders Removed  
+![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)  
+School Summary - Original  
+![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)  
 
 * Effects on Thomas High School’s Performance Relative to Other Schools
-The average reading score was originally slightly higher than Shelton High School, but it ended up lower than Shelton High School in that category afterward.  The other changes were too small to play a major role relative to the other schools.
+The average reading score was originally slightly higher than Shelton High School, but it ended up lower than Shelton High School in that category afterward.  The other changes were too small to play a major role relative to the other schools.  (See Above)
 
 * Additional Effects:
 	* Scores by Math and Reading Scores by Grade  
 The only change here is that the 9th grade scores are NaN (Not a Number) while there was a score previously.  
-Math - Thomas High School 9th Graders Removed
-![Math Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Math_Fixed.png)
-Math - Original
-![Math Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Math_Orig.png)
-Reading - Thomas High School 9th Graders Removed
-![Reading Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Reading_Fixed.png)
-Reading - Original
-![Reading Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Reading_Orig.png)
+Math - Thomas High School 9th Graders Removed  
+![Math Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Math_Fixed.png)  
+Math - Original  
+![Math Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Math_Orig.png)  
+Reading - Thomas High School 9th Graders Removed  
+![Reading Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Reading_Fixed.png)  
+Reading - Original  
+![Reading Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Reading_Orig.png)  
 
 	* Scores by School Spending  
 There was no effect on this category.  This is probably because the table does not measure accurately enough.  
-School Spending - Thomas High School 9th Graders Removed
-
-School Spending - Original
-
+School Spending - Thomas High School 9th Graders Removed  
+![School Spending Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)  
+School Spending - Original  
+![School Spending Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)  
 
 	* Scores by School Size  
 The effect was also too small to be noticed in this category.  
-Size - Thomas High School 9th Graders Removed
-
-Size - Original
-
+Size - Thomas High School 9th Graders Removed  
+![Size Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Size_Fixed.png)  
+Size - Original  
+![Size Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Size_Orig.png)  
 
 	* Scores by School Type
-No effect could be seen in this category either.
-Type Fixed
-![Type Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Type_Fixed.png)
-Type Original
-![Type Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Type_Orig.png)
+No effect could be seen in this category either.  
+Type Fixed  
+![Type Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Type_Fixed.png)  
+Type Original  
+![Type Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Type_Orig.png)  
 
 ## Summary
 
@@ -73,31 +73,27 @@ The original analysis had some incorrect data associated with it, so the analysi
 
 ### 0.3% Decrease Overall in the District Summary
 It is amazing how impactful a single school can be on the entire district.  The data show that the falsification of the data at Thomas High School lead to an overall decrease of 0.3% overall for the entire district.  
-District Summary - Thomas High School 9th Graders Removed
-![District Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Fixed.png)
-District Summary - Original
-![District Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Orig.png)
+District Summary - Thomas High School 9th Graders Removed  
+![District Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Fixed.png)  
+District Summary - Original  
+![District Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Orig.png)  
 
 ### 0.1% Decrease in Math in the School Summary
 The school summary shows us that there was a decrease in the number of students who were able to pass Mathematics overall.  This decrease amounted to approximately 0.1%.  
-School Summary - Thomas High School 9th Graders Removed
-![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)
-School Summary - Original
-![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)
+School Summary - Thomas High School 9th Graders Removed  
+![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)  
+School Summary - Original  
+![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)  
 
 ### 0.3% Decrease in Reading in the School Summary
-One of the greatest changes in performance at Thomas High School with the new data was the decrease in percentage of students passing reading.  This decreased by 0.3%.  
-School Summary - Thomas High School 9th Graders Removed
-![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)
-School Summary - Original
-![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)
+One of the greatest changes in performance at Thomas High School with the new data was the decrease in percentage of students passing reading.  This decreased by 0.3%.  (See Above)
 
 ### Average Reading Score Drops Below Shelton High School
-
+The percent reading score dropped by 0.3% after the numbers were changed.  This means that the percent reading score actually dropped below that of Shelton High School.  (See Above)
 
 ### Thomas High School Does Not Change Ranking
 Sometimes it is important what does not change along with what changes.  Thomas High School was originally ranked the number two school overall, and it is still ranked the number two overall.  It was closer to the number one school in terms of performance prior, but that does not change the fact that it did not change its ranking.  
-Top Schools - Thomas High School 9th Graders Removed
-![Top Schools Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Top_Schools_Fixed.png)
-Top Schools - Original
-![Top Schools Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Top_Schools_Orig.png)
+Top Schools - Thomas High School 9th Graders Removed  
+![Top Schools Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Top_Schools_Fixed.png)  
+Top Schools - Original  
+![Top Schools Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Top_Schools_Orig.png)  
