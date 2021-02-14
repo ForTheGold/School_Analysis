@@ -63,9 +63,9 @@ Size - Original
 	* Scores by School Type
 No effect could be seen in this category either.
 Type Fixed
-
+![Type Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Type_Fixed.png)
 Type Original
-
+![Type Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Type_Orig.png)
 
 ## Summary
 
@@ -98,5 +98,6 @@ School Summary - Original
 ### Thomas High School Does Not Change Ranking
 Sometimes it is important what does not change along with what changes.  Thomas High School was originally ranked the number two school overall, and it is still ranked the number two overall.  It was closer to the number one school in terms of performance prior, but that does not change the fact that it did not change its ranking.  
 Top Schools - Thomas High School 9th Graders Removed
-
+![Top Schools Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Top_Schools_Fixed.png)
 Top Schools - Original
+![Top Schools Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Top_Schools_Orig.png)
