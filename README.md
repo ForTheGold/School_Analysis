@@ -72,31 +72,31 @@ Type Original
 The original analysis had some incorrect data associated with it, so the analysis was done a second time. There were a number of differences between the original analysis and the second analysis with some of the data removed.
 
 ### 0.3% Decrease Overall in the District Summary
-It is amazing how impactful a single school can be on the entire district.  The data show that the falsification of the data at Thomas High School lead to an overall decrease of 0.3% overall for the entire district.
+It is amazing how impactful a single school can be on the entire district.  The data show that the falsification of the data at Thomas High School lead to an overall decrease of 0.3% overall for the entire district.  
 District Summary - Thomas High School 9th Graders Removed
-
+![District Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Fixed.png)
 District Summary - Original
-
+![District Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/District_Summary_Orig.png)
 
 ### 0.1% Decrease in Math in the School Summary
-The school summary shows us that there was a decrease in the number of students who were able to pass Mathematics overall.  This decrease amounted to approximately 0.1%
+The school summary shows us that there was a decrease in the number of students who were able to pass Mathematics overall.  This decrease amounted to approximately 0.1%.  
 School Summary - Thomas High School 9th Graders Removed
-
+![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)
 School Summary - Original
-
+![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)
 
 ### 0.3% Decrease in Reading in the School Summary
-One of the greatest changes in performance at Thomas High School with the new data was the decrease in percentage of students passing reading.  This decreased by 0.3%.
+One of the greatest changes in performance at Thomas High School with the new data was the decrease in percentage of students passing reading.  This decreased by 0.3%.  
 School Summary - Thomas High School 9th Graders Removed
-
+![School Summary Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Fixed.png)
 School Summary - Original
+![School Summary Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/School_Summary_Orig.png)
 
-
-Average Reading Score Drops Below Shelton High School
+### Average Reading Score Drops Below Shelton High School
 
 
 ### Thomas High School Does Not Change Ranking
-Sometimes it is important what does not change along with what changes.  Thomas High School was originally ranked the number two school overall, and it is still ranked the number two overall.  It was closer to the number one school in terms of performance prior, but that does not change the fact that it did not change its ranking.
+Sometimes it is important what does not change along with what changes.  Thomas High School was originally ranked the number two school overall, and it is still ranked the number two overall.  It was closer to the number one school in terms of performance prior, but that does not change the fact that it did not change its ranking.  
 Top Schools - Thomas High School 9th Graders Removed
 
 Top Schools - Original
