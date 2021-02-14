@@ -35,26 +35,26 @@ School Summary - Original
 The average reading score was originally slightly higher than Shelton High School, but it ended up lower than Shelton High School in that category afterward.  The other changes were too small to play a major role relative to the other schools.
 
 * Additional Effects:
-	* Scores by Math and Reading Scores by Grade
-The only change here is that the 9th grade scores are NaN (Not a Number) while there was a score previously.
+	* Scores by Math and Reading Scores by Grade  
+The only change here is that the 9th grade scores are NaN (Not a Number) while there was a score previously.  
 Math - Thomas High School 9th Graders Removed
-
+![Math Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Math_Fixed.png)
 Math - Original
-
+![Math Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Math_Orig.png)
 Reading - Thomas High School 9th Graders Removed
-
+![Reading Fixed](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Reading_Fixed.png)
 Reading - Original
+![Reading Original](https://github.com/ForTheGold/School_Analysis/blob/main/Resources/Reading_Orig.png)
 
-
-	* Scores by School Spending
-There was no effect on this category.  This is probably because the table does not measure accurately enough.
+	* Scores by School Spending  
+There was no effect on this category.  This is probably because the table does not measure accurately enough.  
 School Spending - Thomas High School 9th Graders Removed
 
 School Spending - Original
 
 
-	* Scores by School Size
-The effect was also too small to be noticed in this category.
+	* Scores by School Size  
+The effect was also too small to be noticed in this category.  
 Size - Thomas High School 9th Graders Removed
 
 Size - Original
